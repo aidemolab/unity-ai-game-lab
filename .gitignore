@@ -104,3 +104,18 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity project stored in a repository subfolder
+/EnergyCoreCollector/[Ll]ibrary/
+/EnergyCoreCollector/[Tt]emp/
+/EnergyCoreCollector/[Oo]bj/
+/EnergyCoreCollector/[Bb]uild/
+/EnergyCoreCollector/[Bb]uilds/
+/EnergyCoreCollector/[Ll]ogs/
+/EnergyCoreCollector/[Uu]ser[Ss]ettings/
+/EnergyCoreCollector/[Mm]emoryCaptures/
+/EnergyCoreCollector/[Rr]ecordings/
+/EnergyCoreCollector/.vs/
+/EnergyCoreCollector/.gradle/
+/EnergyCoreCollector/ExportedObj/
+/EnergyCoreCollector/ServerData/
